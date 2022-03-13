@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/imvillacorta/jasmine-node#readme",
   "devDependencies": {
-    "jasmine": "^4.0.2"
+    "jasmine": "^4.0.2",
+    "karma": "^6.3.17",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-jasmine": "^4.0.1"
   }
 }
