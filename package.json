@@ -20,9 +20,12 @@
   },
   "homepage": "https://github.com/imvillacorta/jasmine-node#readme",
   "devDependencies": {
+    "browserify": "^17.0.0",
     "jasmine": "^4.0.2",
     "karma": "^6.3.17",
+    "karma-browserify": "^8.1.0",
     "karma-chrome-launcher": "^3.1.1",
-    "karma-jasmine": "^4.0.1"
+    "karma-jasmine": "^4.0.1",
+    "watchify": "^4.0.0"
   }
 }
