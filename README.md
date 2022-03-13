@@ -11,3 +11,10 @@ Após clonar o projeto é preciso instalar as dependências, use o seguinte coma
 ```
 npm i
 ```
+
+### - Executando os testes em ambiente de desenvolvimento
+Para executar os testes em ambiente de desenvolvimento rode o seguinte comando:
+```
+npm run test-dev
+```
+Feito isso o navegador do Chrome irá abrir e executar os testes.
