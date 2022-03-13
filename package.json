@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imvillacorta/jasmine-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imvillacorta/jasmine-node/issues"
+  },
+  "homepage": "https://github.com/imvillacorta/jasmine-node#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
